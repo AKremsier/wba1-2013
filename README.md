@@ -1,5 +1,5 @@
-**Web-basierte Anwendungen 1: WWW-Technologien  **
-**Wintersemester 2013/2014 **
+**Web-basierte Anwendungen 1: WWW-Technologien**  
+**Wintersemester 2013/2014**
 
 **Betreuer:**  
 Prof. Christian Noss  
